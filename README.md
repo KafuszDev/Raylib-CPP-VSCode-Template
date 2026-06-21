@@ -54,3 +54,5 @@ If your setup is different, update paths in:
 This is a minimal template focused on simplicity and fast setup, not portability.
 
 ---
+
+If this template was useful, consider leaving a star ⭐
