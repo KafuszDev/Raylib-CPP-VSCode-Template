@@ -1,8 +1,8 @@
 # Raylib C++ VSCode Template
-![Language](https://img.shields.io/badge/language-C++-blue)
-![Raylib](https://img.shields.io/badge/raylib-6.0-green)
-![Platform](https://img.shields.io/badge/platform-Windows%2011%20%7C%2010-lightgrey)
-![Editor](https://img.shields.io/badge/editor-VS%20Code-blue)
+![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+![Raylib](https://img.shields.io/badge/raylib-6.0-1E90FF?logo=raylib&logoColor=white)
+![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-00A4EF?logo=windows&logoColor=white)
+![Editor](https://img.shields.io/badge/editor-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 A simple Raylib C++ template for Visual Studio Code for game development.
 
